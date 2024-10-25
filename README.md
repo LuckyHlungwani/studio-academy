@@ -19,7 +19,7 @@ Font Awesome: For scalable vector icons that enhance the design.
 Installation
 To run this project locally, follow these steps:
 
-##Clone the repository:
+# Clone the repository:
 
 bash
 Copy code
@@ -31,7 +31,7 @@ Copy code
 cd music-academy-website
 Open the index.html file in your web browser to view the website.
 
-##Usage
+# Usage
 Explore the various courses offered by the academy.
 Use the dropdown menu to navigate to different sections of the website.
 Fill out the booking form to schedule a session with the academy.
@@ -42,6 +42,6 @@ This project is primarily a tutorial, but contributions are welcome! If you have
 License
 This project is licensed under the MIT License.
 
-##Acknowledgments
+# Acknowledgments
 Thanks to Bootstrap for the responsive design framework.
 Thanks to Font Awesome for providing icons that enhance the website's visual appeal.
