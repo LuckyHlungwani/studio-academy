@@ -1,8 +1,9 @@
-##Music Academy Website
+# Music Academy Website
 Overview
 This project is a tutorial-based website for the Demonstration Sound Academy, designed to showcase various music courses and facilitate bookings for studio sessions. The website serves as a platform for students to explore courses in DJing, music production, and mixing. It features a user-friendly interface, responsive design, and a carousel for showcasing images related to each course.
 
-##Features
+# Features
+
 Responsive Design: The website is optimized for different screen sizes, providing a seamless experience on both desktop and mobile devices.
 Course Information: Detailed sections for each course, including DJing, Music Production, and Mixing & Mastering, with images and ratings.
 Booking Form: Users can fill out a booking form to schedule studio sessions.
