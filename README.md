@@ -1,8 +1,8 @@
-Music Academy Website
+##Music Academy Website
 Overview
 This project is a tutorial-based website for the Demonstration Sound Academy, designed to showcase various music courses and facilitate bookings for studio sessions. The website serves as a platform for students to explore courses in DJing, music production, and mixing. It features a user-friendly interface, responsive design, and a carousel for showcasing images related to each course.
 
-Features
+##Features
 Responsive Design: The website is optimized for different screen sizes, providing a seamless experience on both desktop and mobile devices.
 Course Information: Detailed sections for each course, including DJing, Music Production, and Mixing & Mastering, with images and ratings.
 Booking Form: Users can fill out a booking form to schedule studio sessions.
@@ -18,7 +18,7 @@ Font Awesome: For scalable vector icons that enhance the design.
 Installation
 To run this project locally, follow these steps:
 
-Clone the repository:
+##Clone the repository:
 
 bash
 Copy code
@@ -30,7 +30,7 @@ Copy code
 cd music-academy-website
 Open the index.html file in your web browser to view the website.
 
-Usage
+##Usage
 Explore the various courses offered by the academy.
 Use the dropdown menu to navigate to different sections of the website.
 Fill out the booking form to schedule a session with the academy.
@@ -41,6 +41,6 @@ This project is primarily a tutorial, but contributions are welcome! If you have
 License
 This project is licensed under the MIT License.
 
-Acknowledgments
+##Acknowledgments
 Thanks to Bootstrap for the responsive design framework.
 Thanks to Font Awesome for providing icons that enhance the website's visual appeal.
