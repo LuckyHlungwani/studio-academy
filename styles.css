@@ -198,7 +198,7 @@ nav {
 
 /* Bookings Section */
 .bookings-section {
-    background-image: url('/public/session.jpg'); /* Add your background image here */
+    background-image: url('./public/session.jpg'); /* Add your background image here */
     background-size: cover; /* Cover the entire section */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Prevent the image from repeating */
