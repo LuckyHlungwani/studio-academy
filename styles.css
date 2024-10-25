@@ -420,7 +420,7 @@ button:hover {
     cursor: pointer; /* Pointer cursor on hover */
 }
 .contact {
-    background-image: url('/public/contact.jpg'); /* Add your background image here */
+    background-image: url('./public/contact.jpgs'); /* Add your background image here */
     background-size: cover; /* Cover the entire section */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Prevent the image from repeating */
